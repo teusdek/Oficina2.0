@@ -1,5 +1,5 @@
 # Oficina2.0
-Pagina básica de cadastro
+Pagina básica de Formulario.
 
 Usando PHP,MySQL,Bootstrap,HTML5 e CSS.
 
