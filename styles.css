@@ -1,0 +1,35 @@
+body
+{
+  background-color: rgba(189, 187, 180, 0.904); 
+}
+table h1
+{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.topo
+{
+    width: 100%;
+    top: 0;
+    height: 100px;
+    text-align: center;
+    background-color: #242835;
+}
+.meio h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 100%;
+    right: auto;
+    color: black;
+}
+.rodape
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #242835;
+    color: blue;
+    text-align: center;
+}
