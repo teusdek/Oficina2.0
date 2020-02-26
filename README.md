@@ -3,4 +3,4 @@ Pagina básica de cadastro
 
 Usando php,mysql,bootstrap.
 
-Qualquer alteração no Banco de dados pode ser feita na pagina conexao.php
+Qualquer alteração na conexao no Banco de dados pode ser feita na pagina conexao.php
